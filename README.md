@@ -1,2 +1,2 @@
 # php-sdk
-Wattpad's Public API PHP SDK
+Wattpad's Public API PHP SDK and Qordoba demo
